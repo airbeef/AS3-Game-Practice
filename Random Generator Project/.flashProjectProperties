@@ -1,0 +1,23 @@
+<projectDescription>
+  <id>1421289836732</id>
+  <name>dice Project_2015</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/JC Brazil/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/JC Brazil/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///C|/source/Projects/test projects/dice Project/diceMain.fla</defaultApp>
+  <rootURI>file:///C|/source/Projects/test projects/dice Project/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false">
+    <uri label="diceMain.fla">file:///C|/source/Projects/test projects/dice Project/diceMain.fla</uri>
+  </compileList>
+  <recentFiles editable="false">
+    <uri label="diceMain.fla">file:///C|/source/Projects/test projects/dice Project/diceMain.fla</uri>
+    <uri label="DiceMain.as">file:///C|/source/Projects/test projects/dice Project/DiceMain.as</uri>
+    <uri label="diceMain.swf">file:///C|/source/Projects/test projects/dice Project/diceMain.swf</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
