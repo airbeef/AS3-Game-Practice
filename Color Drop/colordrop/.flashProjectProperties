@@ -1,0 +1,26 @@
+<projectDescription>
+  <id>1324579283081</id>
+  <name>colordrop</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/AshyPants/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/AshyPants/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///C|/source/projects/colordrop/colordrop.fla</defaultApp>
+  <rootURI>file:///C|/source/projects/colordrop/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="CustomEventClickBlock.as">file:///C|/source/projects/colordrop/com/efg/games/colordrop/CustomEventClickBlock.as</uri>
+    <uri label="Block.as">file:///C|/source/projects/colordrop/com/efg/games/colordrop/Block.as</uri>
+    <uri label="ColorDrop.as">file:///C|/source/projects/colordrop/com/efg/games/colordrop/ColorDrop.as</uri>
+    <uri label="GameStates.as">file:///C|/source/projects/colordrop/com/efg/games/colordrop/GameStates.as</uri>
+    <uri label="DifficultyLevel.as">file:///C|/source/projects/colordrop/com/efg/games/colordrop/DifficultyLevel.as</uri>
+    <uri label="ColorDropStates.as">file:///C|/source/projects/colordrop/com/efg/games/colordrop/ColorDropStates.as</uri>
+    <uri label="Main.as">file:///C|/source/projects/colordrop/com/efg/games/colordrop/Main.as</uri>
+    <uri label="colordrop.fla">file:///C|/source/projects/colordrop/colordrop.fla</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

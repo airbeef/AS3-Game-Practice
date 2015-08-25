@@ -1,0 +1,41 @@
+<projectDescription>
+  <id>1332297585001</id>
+  <name>blastermines2</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Program Files (x86)/Adobe/Adobe Flash CS5/Common/First Run/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Program Files (x86)/Adobe/Adobe Flash CS5/Common/First Run/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///C|/source/projects/blastermines2/blastermines2.fla</defaultApp>
+  <rootURI>file:///C|/source/projects/blastermines2/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="blastermines2.fla">file:///C|/source/projects/blastermines2/blastermines2.fla</uri>
+    <uri label="Main.as">file:///C|/source/projects/blastermines2/com/efg/games/blastermines2/Main.as</uri>
+    <uri label="BlasterMines2.as">file:///C|/source/projects/blastermines2/com/efg/games/blastermines2/BlasterMines2.as</uri>
+    <uri label="BlasterMinesImg2.as">file:///C|/source/projects/blastermines2/com/efg/games/blastermines2/BlasterMinesImg2.as</uri>
+    <uri label="DummyScreen.as">file:///C|/source/projects/blastermines2/com/efg/games/blastermines2/DummyScreen.as</uri>
+    <uri label="TitleScreen.as">file:///C|/source/projects/blastermines2/com/efg/games/blastermines2/TitleScreen.as</uri>
+    <uri label="ScoreScreen.as">file:///C|/source/projects/blastermines2/com/efg/games/blastermines2/ScoreScreen.as</uri>
+    <uri label="BlitArrayPlayerFollowMouse.as">file:///C|/source/projects/blastermines2/com/efg/games/blastermines2/BlitArrayPlayerFollowMouse.as</uri>
+    <uri label="ProjectileManager.as">file:///C|/source/projects/blastermines2/com/efg/games/blastermines2/ProjectileManager.as</uri>
+    <uri label="MineManager.as">file:///C|/source/projects/blastermines2/com/efg/games/blastermines2/MineManager.as</uri>
+    <uri label="ParticleManager.as">file:///C|/source/projects/blastermines2/com/efg/games/blastermines2/ParticleManager.as</uri>
+    <uri label="Mine.as">file:///C|/source/projects/blastermines2/com/efg/games/blastermines2/Mine.as</uri>
+    <uri label="ShieldManager.as">file:///C|/source/projects/blastermines/com/efg/games/blastermines/ShieldManager.as</uri>
+    <uri label="BlasterMines.as">file:///C|/source/projects/blastermines/com/efg/games/blastermines/BlasterMines.as</uri>
+    <uri label="blastermines.fla">file:///C|/source/projects/blastermines/blastermines.fla</uri>
+    <uri label="Main.as">file:///C|/source/projects/blastermines/com/efg/games/blastermines/Main.as</uri>
+    <uri label="MineManager.as">file:///C|/source/projects/blastermines/com/efg/games/blastermines/MineManager.as</uri>
+    <uri label="Mine.as">file:///C|/source/projects/blastermines/com/efg/games/blastermines/Mine.as</uri>
+    <uri label="ParticleManager.as">file:///C|/source/projects/blastermines/com/efg/games/blastermines/ParticleManager.as</uri>
+    <uri label="PowerUp.as">file:///C|/source/projects/blastermines/com/efg/games/blastermines/PowerUp.as</uri>
+    <uri label="ProjectileManager.as">file:///C|/source/projects/blastermines/com/efg/games/blastermines/ProjectileManager.as</uri>
+    <uri label="blastermines.swf">file:///C|/source/projects/blastermines/blastermines.swf</uri>
+    <uri label="BlitArrayPlayerFollowMouse.as">file:///C|/source/projects/blastermines/com/efg/games/blastermines/BlitArrayPlayerFollowMouse.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

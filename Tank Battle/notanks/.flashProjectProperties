@@ -1,0 +1,30 @@
+<projectDescription>
+  <id>1320791789245</id>
+  <name>notanks</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/AshyPants/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/AshyPants/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///C|/source/projects/notanks/notanks.fla</defaultApp>
+  <rootURI>file:///C|/source/projects/notanks/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="Main.as">file:///C|/source/projects/notanks/com/efg/games/notanks/Main.as</uri>
+    <uri label="GameDemoIteration6.as">file:///C|/source/projects/notanks/com/efg/games/notanks/GameDemoIteration6.as</uri>
+    <uri label="TilesheetDataXML.as">file:///C|/source/projects/notanks/com/efg/games/notanks/TilesheetDataXML.as</uri>
+    <uri label="notanks.fla">file:///C|/source/projects/notanks/notanks.fla</uri>
+    <uri label="Level1.as">file:///C|/source/projects/notanks/com/efg/games/notanks/Level1.as</uri>
+    <uri label="GameDemoIteration1.as">file:///C|/source/projects/notanks/com/efg/games/notanks/GameDemoIteration1.as</uri>
+    <uri label="NoTanks.as">file:///C|/source/projects/notanks/com/efg/games/notanks/NoTanks.as</uri>
+    <uri label="GameDemoIteration4.as">file:///C|/source/projects/notanks/com/efg/games/notanks/GameDemoIteration4.as</uri>
+    <uri label="Level.as">file:///C|/source/projects/notanks/com/efg/games/notanks/Level.as</uri>
+    <uri label="GameDemoIteration5.as">file:///C|/source/projects/notanks/com/efg/games/notanks/GameDemoIteration5.as</uri>
+    <uri label="GameDemoIteration3.as">file:///C|/source/projects/notanks/com/efg/games/notanks/GameDemoIteration3.as</uri>
+    <uri label="GameDemo.as">file:///C|/source/projects/notanks/com/efg/games/notanks/GameDemo.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

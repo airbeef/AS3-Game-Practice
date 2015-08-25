@@ -1,0 +1,29 @@
+<projectDescription>
+  <id>1332297585001</id>
+  <name>blastermines</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Program Files (x86)/Adobe/Adobe Flash CS5/Common/First Run/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Program Files (x86)/Adobe/Adobe Flash CS5/Common/First Run/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///C|/source/projects/blastermines/blastermines.fla</defaultApp>
+  <rootURI>file:///C|/source/projects/blastermines/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="ShieldManager.as">file:///C|/source/projects/blastermines/com/efg/games/blastermines/ShieldManager.as</uri>
+    <uri label="BlasterMines.as">file:///C|/source/projects/blastermines/com/efg/games/blastermines/BlasterMines.as</uri>
+    <uri label="blastermines.fla">file:///C|/source/projects/blastermines/blastermines.fla</uri>
+    <uri label="Main.as">file:///C|/source/projects/blastermines/com/efg/games/blastermines/Main.as</uri>
+    <uri label="MineManager.as">file:///C|/source/projects/blastermines/com/efg/games/blastermines/MineManager.as</uri>
+    <uri label="Mine.as">file:///C|/source/projects/blastermines/com/efg/games/blastermines/Mine.as</uri>
+    <uri label="ParticleManager.as">file:///C|/source/projects/blastermines/com/efg/games/blastermines/ParticleManager.as</uri>
+    <uri label="PowerUp.as">file:///C|/source/projects/blastermines/com/efg/games/blastermines/PowerUp.as</uri>
+    <uri label="ProjectileManager.as">file:///C|/source/projects/blastermines/com/efg/games/blastermines/ProjectileManager.as</uri>
+    <uri label="blastermines.swf">file:///C|/source/projects/blastermines/blastermines.swf</uri>
+    <uri label="BlitArrayPlayerFollowMouse.as">file:///C|/source/projects/blastermines/com/efg/games/blastermines/BlitArrayPlayerFollowMouse.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

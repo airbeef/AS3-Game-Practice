@@ -1,0 +1,28 @@
+<projectDescription>
+  <id>1326836422341</id>
+  <name>driveshesaid</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/AshyPants/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/AshyPants/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///C|/source/projects/driveshesaid/driveshesaid.fla</defaultApp>
+  <rootURI>file:///C|/source/projects/driveshesaid/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="driveshesaid.fla">file:///C|/source/projects/driveshesaid/driveshesaid.fla</uri>
+    <uri label="Main.as">file:///C|/source/projects/driveshesaid/com/efg/games/driveshesaid/Main.as</uri>
+    <uri label="DriveSheSaid4.as">file:///C|/source/projects/driveshesaid/com/efg/games/driveshesaid/DriveSheSaid4.as</uri>
+    <uri label="DriveSheSaid3.as">file:///C|/source/projects/driveshesaid/com/efg/games/driveshesaid/DriveSheSaid3.as</uri>
+    <uri label="Level1.as">file:///C|/source/projects/driveshesaid/com/efg/games/driveshesaid/Level1.as</uri>
+    <uri label="Level.as">file:///C|/source/projects/driveshesaid/com/efg/games/driveshesaid/Level.as</uri>
+    <uri label="Level2.as">file:///C|/source/projects/driveshesaid/com/efg/games/driveshesaid/Level2.as</uri>
+    <uri label="DriveSheSaid2.as">file:///C|/source/projects/driveshesaid/com/efg/games/driveshesaid/DriveSheSaid2.as</uri>
+    <uri label="CustomEventHeartsNeeded.as">file:///C|/source/projects/driveshesaid/com/efg/games/driveshesaid/CustomEventHeartsNeeded.as</uri>
+    <uri label="DriveSheSaid.as">file:///C|/source/projects/driveshesaid/com/efg/games/driveshesaid/DriveSheSaid.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

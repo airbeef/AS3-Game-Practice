@@ -1,0 +1,27 @@
+<projectDescription>
+  <id>1313848394260</id>
+  <name>flakcannon</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/AshyPants/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/AshyPants/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///C|/source/projects/flakcannon/flakcannon.fla</defaultApp>
+  <rootURI>file:///C|/source/projects/flakcannon/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="FlakCannon.as">file:///C|/source/projects/flakcannon/com/efg/games/flakcannon/FlakCannon.as</uri>
+    <uri label="Enemy.as">file:///C|/source/projects/flakcannon/com/efg/games/flakcannon/Enemy.as</uri>
+    <uri label="Main.as">file:///C|/source/projects/flakcannon/com/efg/games/flakcannon/Main.as</uri>
+    <uri label="flakcannon.fla">file:///C|/source/projects/flakcannon/flakcannon.fla</uri>
+    <uri label="Flak.as">file:///C|/source/projects/flakcannon/com/efg/games/flakcannon/Flak.as</uri>
+    <uri label="Shot.as">file:///C|/source/projects/flakcannon/com/efg/games/flakcannon/Shot.as</uri>
+    <uri label="BonusPlane.as">file:///C|/source/projects/flakcannon/com/efg/games/flakcannon/BonusPlane.as</uri>
+    <uri label="Ship.as">file:///C|/source/projects/flakcannon/com/efg/games/flakcannon/Ship.as</uri>
+    <uri label="Explosion.as">file:///C|/source/projects/flakcannon/com/efg/games/flakcannon/Explosion.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

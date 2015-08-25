@@ -1,0 +1,26 @@
+<projectDescription>
+  <id>1350518962293</id>
+  <name>spacecheckers</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/JC Brazil/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/JC Brazil/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp/>
+  <rootURI>file:///C|/source/projects/spacecheckers/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false">
+    <uri label="spacechecers.fla">file:///C|/source/projects/spacecheckers/spacechecers.fla</uri>
+  </compileList>
+  <recentFiles editable="false">
+    <uri label="SetUpClass.as">file:///C|/source/projects/spacecheckers/com/efg/games/spacecheckers/SetUpClass.as</uri>
+    <uri label="spacechecers.fla">file:///C|/source/projects/spacecheckers/spacechecers.fla</uri>
+    <uri label="LevelSelectionBase.as">file:///C|/source/projects/spacecheckers/com/efg/games/spacecheckers/LevelSelectionBase.as</uri>
+    <uri label="LevelSelection.as">file:///C|/source/projects/spacecheckers/com/efg/games/spacecheckers/LevelSelection.as</uri>
+    <uri label="Main2.as">file:///C|/source/projects/spacecheckers/com/efg/games/spacecheckers/Main2.as</uri>
+    <uri label="Main.as">file:///C|/source/projects/spacecheckers/com/efg/games/spacecheckers/Main.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

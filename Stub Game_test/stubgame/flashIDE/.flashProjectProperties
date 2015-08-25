@@ -1,0 +1,21 @@
+<projectDescription>
+  <id>1311289190379</id>
+  <name>stubgame</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/AshyPants/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/AshyPants/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///C|/source/projects/stubgame/flashIDE/stubgame.fla</defaultApp>
+  <rootURI>file:///C|/source/projects/stubgame/flashIDE/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="StubGame.as">file:///C|/source/projects/stubgame/flashIDE/com/efg/games/stubgame/StubGame.as</uri>
+    <uri label="Main.as">file:///C|/source/projects/stubgame/flashIDE/com/efg/games/stubgame/Main.as</uri>
+    <uri label="stubgame.fla">file:///C|/source/projects/stubgame/flashIDE/stubgame.fla</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
