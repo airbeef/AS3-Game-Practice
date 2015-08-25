@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:dac924c7c6e44a59b4f9a168b563abf9$ -->
+<TextureAtlas imagePath="UI_SD.png">
+    <SubTexture name="BtnAbout" x="644" y="2" width="300" height="142"/>
+    <SubTexture name="BtnPlay" x="2" y="747" width="390" height="184"/>
+    <SubTexture name="bg-shimmer-0" x="2" y="346" width="508" height="124"/>
+    <SubTexture name="bg-shimmer-1" x="2" y="220" width="508" height="124"/>
+    <SubTexture name="bomb-explo-inner" x="726" y="150" width="72" height="68" frameX="-4" frameY="-6" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="bottom" x="512" y="220" width="10" height="145"/>
+    <SubTexture name="btn-pause-down" x="946" y="2" width="72" height="72"/>
+    <SubTexture name="btn-pause" x="946" y="76" width="72" height="72"/>
+    <SubTexture name="go" x="623" y="228" width="390" height="242" frameX="0" frameY="-1" frameWidth="392" frameHeight="244"/>
+    <SubTexture name="header" x="2" y="2" width="640" height="158"/>
+    <SubTexture name="headerBg" x="608" y="194" width="13" height="158"/>
+    <SubTexture name="hint" x="644" y="146" width="80" height="80"/>
+    <SubTexture name="sparkle" x="608" y="162" width="30" height="30" frameX="0" frameY="0" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="timer" x="2" y="162" width="604" height="56"/>
+    <SubTexture name="title" x="2" y="472" width="423" height="273"/>
+</TextureAtlas>
